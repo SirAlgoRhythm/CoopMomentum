@@ -1,0 +1,23 @@
+
+Sommaire exécutif:
+
+Le momentum est une coopérative de solidarité qui a pour but de fournir un service de cross-training aux athlètes et aux adultes de tous niveaux, afin de lier plaisir, saines habitudes de vie et performance.
+
+à lire:
+
+Voici les liens vers les sites officiels et la documentation des trois CMS mentionnés :
+
+1. Umbraco :
+- Site officiel : https://umbraco.com/
+- Documentation : https://our.umbraco.com/documentation/
+
+2. Kentico :
+- Site officiel : https://www.kentico.com/
+- Documentation : https://docs.xperience.io/
+
+3. DNN (DotNetNuke) :
+- Site officiel : https://www.dnnsoftware.com/
+- Documentation : https://dnndocs.com/
+
+Ces liens vous permettront d'accéder aux sites officiels où vous pourrez en savoir plus sur les fonctionnalités, les ressources de support et les communautés liées à chaque CMS. De plus, 
+les documentations fournissent des informations détaillées sur l'utilisation et la configuration de ces CMS, y compris des guides de développement, des tutoriels et des exemples de code.
